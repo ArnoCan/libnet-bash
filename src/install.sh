@@ -63,6 +63,10 @@ for i in bootstrap/*;do
 	cp -r ${i} ${BOOTSTRAP}
 done
 
-echo "->libconsole.sh $LIBDIR"
-cp libconsole.sh $LIBDIR
+echo "->ctys-wakeup.sh"
+cp -r ${ctys-wakeup.sh} ${BINDIR}
+
+
+echo "->libnetwork $LIBDIR"
+cp -r network $LIBDIR
 

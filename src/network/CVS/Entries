@@ -1,0 +1,20 @@
+/netGetFirstFreePort-CYGWIN.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetFirstFreePort-FreeBSD.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetFirstFreePort-Linux.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetFirstFreePort-OpenBSD.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetFirstFreePort-SunOS.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetFirstIF-CYGWIN.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetIFBroadcast-CYGWIN.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetIFBroadcast-CYGWIN.sh/1.1.1.1/Mon Dec  5 13:52:40 2011//Tkindle-edition-pre
+/netGetIFDGW-CYGWIN.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetIFIP-CYGWIN.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetIFMAC-CYGWIN.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetIFMask-CYGWIN.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetIFlst-CYGWIN.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetIFlst-FreeBSD.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetIFlst-Linux.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetIFlst-OpenBSD.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetIFlst-SunOS.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/netGetSSHPORTlst.awk/1.2/Mon Dec  5 15:15:55 2011//Tkindle-edition-pre
+/network.sh/1.4/Mon Jan 23 16:20:08 2012//Tkindle-edition-pre
+D
